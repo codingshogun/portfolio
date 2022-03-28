@@ -1,1 +1,1 @@
-https://portfolio-kxq6v5oe3-codingshogun.vercel.app/
+https://portfolio-git-master-codingshogun.vercel.app/
