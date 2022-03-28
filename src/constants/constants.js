@@ -24,7 +24,7 @@ export const projects = [
     description:
       "A react project created using rapid Api. This app can easily give all the info on Crypto currencies including latest news in the crypto market.",
     image: "/images/crypto.PNG",
-    tags: ["React", "WebRTC"],
+    tags: ["React", "rapid Api"],
     source: "https://coinapp.netlify.app/",
     visit: "https://github.com/codingshogun/coin-app",
     id: 2,
@@ -34,7 +34,7 @@ export const projects = [
     description:
       "A react project created using rapid Api. This app gives all the info about real estate.",
     image: "/images/realestate.PNG",
-    tags: ["React", "ChatEngine", "Firebase"],
+    tags: ["React", "rapid Api"],
     source:
       "https://real-estate-api-project-6isl6iezs-codingshogun.vercel.app/",
     visit: "https://github.com/codingshogun/real_estate_api_project",
